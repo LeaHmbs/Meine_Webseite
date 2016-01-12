@@ -1,0 +1,46 @@
+body {
+  background-color: 676767;
+}
+
+p {
+  font-family: Helvetica, sans-serif;
+  margin: 10px;
+  padding:0px;
+}
+
+h2 {
+  margin-top: 40px;
+  margin-bottom: 25px;
+  padding:10px;
+  border-bottom: 2px solid orange;
+}
+
+.wrapper {
+  background-color: white;
+  padding: 20px;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Georgia, serif;
+}
+
+.image {
+  width: 200px;
+  margin-top: 80px;
+  float: right;
+}
+
+.Zur_Person strong {
+  display: inline-block;
+  width: 220px;
+}
+
+.Schulbildung strong {
+  display: inline-block;
+  width: 220px;
+}
+
+.Praktika strong {
+  display: inline-block;
+  width: 220px;
+}
